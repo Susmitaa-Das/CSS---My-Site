@@ -45,7 +45,11 @@ a{
 a:hover{
     color: #EAF6F6;
 }
-
+.profile img{
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+}
 .top-container{
     background-color: #9ED5C5;
     position: relative;
